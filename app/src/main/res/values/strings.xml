@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidScreenshot</string>
+    <string name="title_capture">Capture</string>
+    <string name="title_capture_layout">Capture Layout</string>
+    <string name="title_reset">Reset</string>
+    <string name="title_save">Save</string>
+</resources>
